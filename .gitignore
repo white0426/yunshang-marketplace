@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite-*.log
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+server/target/
+server/.env
+*.log
+docs/*.png
